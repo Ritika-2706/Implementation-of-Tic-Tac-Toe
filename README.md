@@ -18,9 +18,13 @@ To implement the tic tac toe game brings the classic pen-and-paper game to life 
 
 ### Usage:
 1.Entertainment:Tic Tac Toe is primarily played for fun and entertainment. It's a quick and engaging game that can be enjoyed by people of all ages.
+
 2.Educational Tool:It helps develop critical thinking skills as players plan their moves to achieve victory or prevent their opponent from winning.
+
 3.Teaching Programming:Implementing a Tic Tac Toe game is a popular project for beginners learning programming. It covers fundamental concepts such as control flow, data structures, and user input.
+
 4.Problem-Solving Exercise:In educational settings, Tic Tac Toe can be used as a problem-solving exercise. Students can analyze and optimize the game's logic, exploring different algorithms for move selection.
+
 5.Brain Training:Playing Tic Tac Toe involves strategic thinking and planning, making it a game that can contribute to brain training and cognitive development.
 
 ### Program:

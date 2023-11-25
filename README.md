@@ -12,9 +12,8 @@ To implement the tic tac toe game brings the classic pen-and-paper game to life 
 3.Jupyter Lab
 
 ### System flow diagram:
-
-### Installation:
-1.Clone the repository
+![pic1](https://github.com/Ritika-2706/Implementation-of-Tic-Tac-Toe/assets/93427238/5388dca5-ba6c-41c5-a86a-46fce560937a)
+![pic2](https://github.com/Ritika-2706/Implementation-of-Tic-Tac-Toe/assets/93427238/1f1e2fcb-6fb3-45ad-b658-e9b5d7c33e62)
 
 
 ### Usage:
@@ -88,6 +87,14 @@ play_game()
 
 ```
 ### Output:
+![g1](https://github.com/Ritika-2706/Implementation-of-Tic-Tac-Toe/assets/93427238/3be74843-7ac8-473c-b63f-6a71b81f0928)
+![g2](https://github.com/Ritika-2706/Implementation-of-Tic-Tac-Toe/assets/93427238/c1623536-e367-4ddf-b01f-98bd0bbf0835)
+![g3](https://github.com/Ritika-2706/Implementation-of-Tic-Tac-Toe/assets/93427238/59cf1208-37e8-436d-9721-598a992b6981)
+![g4](https://github.com/Ritika-2706/Implementation-of-Tic-Tac-Toe/assets/93427238/9dee88e8-9a8e-4abf-9299-613040250232)
+![g5](https://github.com/Ritika-2706/Implementation-of-Tic-Tac-Toe/assets/93427238/a6f1d837-4d27-4561-bb45-b5927b78ac00)
+![g6](https://github.com/Ritika-2706/Implementation-of-Tic-Tac-Toe/assets/93427238/884d7644-b093-4d55-91f4-d10bdebafe6a)
+![g7](https://github.com/Ritika-2706/Implementation-of-Tic-Tac-Toe/assets/93427238/06a1cbd8-eb55-4c96-8d99-cf9c339d7021)
 
 
 ### Result:
+The player who succeeded in placing three respective marks in a horizontal, vertical, or diagonal row wins the game. The Tic Tac Toe is a great way to pass your free time whether you're standing in a line or spending time with your kids.

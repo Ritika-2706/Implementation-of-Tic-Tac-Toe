@@ -10,8 +10,11 @@ To implement the tic tac toe game brings the classic pen-and-paper game to life 
 3.Move Validation:Ensure that player moves are valid and within the bounds of the game board.
 
 ### Requirements:
+
 1.Front end: Python3
+
 2.Back end: Python 3.6.0 interpreter
+
 3.Jupyter Lab
 
 ### System flow diagram:

@@ -3,7 +3,9 @@ To implement the tic tac toe game brings the classic pen-and-paper game to life 
 
 ### Features:
 1. Game Board:A 3x3 grid where players make their moves.
+   
 2.Player Turns:Alternating turns between Player X and Player O.
+
 3.Move Validation:Ensure that player moves are valid and within the bounds of the game board.
 
 ### Requirements:
